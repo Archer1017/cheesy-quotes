@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" role="img" aria-labelledby="title desc">
+  <title id="title">土味情话便签</title>
+  <desc id="desc">几张写着情话的便签、聊天气泡和心形图案。</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#202124" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect x="56" y="44" width="408" height="308" rx="28" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="118" cy="98" r="20" fill="#f6c65b"/>
+  <circle cx="402" cy="306" r="24" fill="#167e7f" opacity=".18"/>
+  <path d="M139 137h240a28 28 0 0 1 28 28v48a28 28 0 0 1-28 28h-81l-48 39v-39H139a28 28 0 0 1-28-28v-48a28 28 0 0 1 28-28Z" fill="#173f44"/>
+  <path d="M166 174h122" stroke="#fff8f9" stroke-width="14" stroke-linecap="round"/>
+  <path d="M166 207h190" stroke="#fff8f9" stroke-width="14" stroke-linecap="round" opacity=".84"/>
+  <rect x="74" y="246" width="142" height="92" rx="12" fill="#fff1a6" transform="rotate(-8 74 246)"/>
+  <path d="M102 280h80M106 306h52" stroke="#173f44" stroke-width="8" stroke-linecap="round" opacity=".72"/>
+  <rect x="302" y="72" width="148" height="100" rx="14" fill="#e94d5f" transform="rotate(8 302 72)"/>
+  <path d="M348 117s-24-15-24-31a14 14 0 0 1 24-9 14 14 0 0 1 24 9c0 16-24 31-24 31Z" fill="#fff8f9"/>
+  <path d="M363 138h45" stroke="#fff8f9" stroke-width="8" stroke-linecap="round" opacity=".82"/>
+  <rect x="286" y="262" width="132" height="78" rx="14" fill="#e6f3f1"/>
+  <path d="M314 294h72M314 318h46" stroke="#167e7f" stroke-width="8" stroke-linecap="round"/>
+  <path d="M88 171c-18-24 18-50 36-22 18-28 54-2 36 22-11 15-36 31-36 31s-25-16-36-31Z" fill="#e94d5f" opacity=".94"/>
+</svg>
